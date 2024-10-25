@@ -1,0 +1,32 @@
+body{
+	background-color: skyblue;
+}
+table { font-family: serif;
+		border-color: navy;
+		margin-left: auto;
+		margin-right: auto;
+
+}
+h6 {
+	color: deeppink;
+
+}
+img {
+	scale : widht:150px;height:150px;
+	display:block ;
+	margin-left: auto;
+	margin-right: auto;
+}
+h1 {
+	font-family: CASTELLAR ;
+	text-align: center;
+}
+button {
+	display: block ;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px 25px;
+	font-size: 15px;
+	color: mediumslateblue;
+	background-color: mintcream;
+}
